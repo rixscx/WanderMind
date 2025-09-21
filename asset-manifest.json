@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WanderMind/static/css/main.5d7dbab0.css",
+    "main.js": "/WanderMind/static/js/main.8b01895e.js",
+    "static/js/453.f2506e2c.chunk.js": "/WanderMind/static/js/453.f2506e2c.chunk.js",
+    "static/media/logo.png": "/WanderMind/static/media/logo.d7376215be64cd39fd64.png",
+    "index.html": "/WanderMind/index.html",
+    "main.5d7dbab0.css.map": "/WanderMind/static/css/main.5d7dbab0.css.map",
+    "main.8b01895e.js.map": "/WanderMind/static/js/main.8b01895e.js.map",
+    "453.f2506e2c.chunk.js.map": "/WanderMind/static/js/453.f2506e2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d7dbab0.css",
+    "static/js/main.8b01895e.js"
+  ]
+}

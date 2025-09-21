@@ -157,7 +157,7 @@ function TripForm({ onSubmit, disabled }) {
         </div>
         <div className="trip-box">
           <input type="text" name="interests" required disabled={disabled} />
-          <label>Additional Message</label>
+          <label>Interests (comma-separated)</label>
         </div>
         <div className="trip-box">
           <input type="text" name="groqApiKey" required disabled={disabled} />
